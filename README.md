@@ -1,8 +1,10 @@
 🚀 GPU Accelerated Matrix Multiplication using CUDA 🖥️⚡
+
+---
 📋 Overview
 This project showcases matrix multiplication accelerated on the GPU using NVIDIA CUDA. Harnessing the power of parallel processing on CUDA-enabled GPUs, this implementation delivers much faster matrix multiplication compared to traditional CPU methods. 🔥
 
---
+---
 
 ✨ Features
 ⚙️ CUDA kernel for fast matrix multiplication
@@ -17,7 +19,8 @@ NVIDIA GPU with CUDA support 🖥️
 CUDA Toolkit installed (v10.0+) 📥
 GCC or compatible C++ compiler
 Linux or Windows OS with CUDA drivers installed
-----
+---
+
 ⚡ Performance GPU acceleration shows massive speedups over CPU, especially for large matrices (≥ 1024×1024). Check console output for runtime comparisons! ⏱️💨
 
 💡 Optimization Ideas Use shared memory tiling for faster memory access 🔄
